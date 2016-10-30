@@ -1,0 +1,6 @@
+c:\users\kennymolc\documents\visual studio 2015\Projects\SelfHost1\SelfHost1\SelfHost1.ServiceModel\bin\Debug\SelfHost1.ServiceModel.dll
+c:\users\kennymolc\documents\visual studio 2015\Projects\SelfHost1\SelfHost1\SelfHost1.ServiceModel\bin\Debug\SelfHost1.ServiceModel.pdb
+c:\users\kennymolc\documents\visual studio 2015\Projects\SelfHost1\SelfHost1\SelfHost1.ServiceModel\bin\Debug\ServiceStack.Interfaces.dll
+c:\users\kennymolc\documents\visual studio 2015\Projects\SelfHost1\SelfHost1\SelfHost1.ServiceModel\obj\Debug\SelfHost1.ServiceModel.csprojResolveAssemblyReference.cache
+c:\users\kennymolc\documents\visual studio 2015\Projects\SelfHost1\SelfHost1\SelfHost1.ServiceModel\obj\Debug\SelfHost1.ServiceModel.dll
+c:\users\kennymolc\documents\visual studio 2015\Projects\SelfHost1\SelfHost1\SelfHost1.ServiceModel\obj\Debug\SelfHost1.ServiceModel.pdb
