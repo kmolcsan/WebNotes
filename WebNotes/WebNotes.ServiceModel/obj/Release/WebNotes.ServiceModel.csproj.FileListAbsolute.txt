@@ -1,0 +1,6 @@
+C:\Users\kennymolc\Documents\Visual Studio 2015\Projects\WebNotes\WebNotes\WebNotes.ServiceModel\bin\Release\WebNotes.ServiceModel.dll
+C:\Users\kennymolc\Documents\Visual Studio 2015\Projects\WebNotes\WebNotes\WebNotes.ServiceModel\bin\Release\WebNotes.ServiceModel.pdb
+C:\Users\kennymolc\Documents\Visual Studio 2015\Projects\WebNotes\WebNotes\WebNotes.ServiceModel\bin\Release\ServiceStack.Interfaces.dll
+C:\Users\kennymolc\Documents\Visual Studio 2015\Projects\WebNotes\WebNotes\WebNotes.ServiceModel\obj\Release\WebNotes.ServiceModel.csprojResolveAssemblyReference.cache
+C:\Users\kennymolc\Documents\Visual Studio 2015\Projects\WebNotes\WebNotes\WebNotes.ServiceModel\obj\Release\WebNotes.ServiceModel.dll
+C:\Users\kennymolc\Documents\Visual Studio 2015\Projects\WebNotes\WebNotes\WebNotes.ServiceModel\obj\Release\WebNotes.ServiceModel.pdb
